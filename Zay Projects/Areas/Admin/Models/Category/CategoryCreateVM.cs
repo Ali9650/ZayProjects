@@ -1,0 +1,12 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Zay_Projects.Areas.Admin.Models.Category
+{
+    public class CategoryCreateVM
+    {
+        [Required(ErrorMessage = "Ad daxil edilməlidir")]
+        [MinLength(3, ErrorMessage = "Adın minimum uzunluğu 3 simvol olmalıdır")]
+        [Display(Name = "Title")]
+        public string Name { get; set; }
+    }
+}

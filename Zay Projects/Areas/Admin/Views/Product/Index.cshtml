@@ -1,0 +1,42 @@
+﻿@using Zay_Projects.Areas.Admin.Models.Product;
+@model ProductIndexVM
+<!-- Page Heading -->
+<div class="d-sm-flex align-items-center justify-content-between mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Products</h1>
+    <a class="btn btn-primary" asp-action="create" asp-controller="product">Create</a>
+</div>
+
+<table class="table table-light">
+    <thead>
+        <tr>
+            <th scope="col">Photo</th>
+            <th scope="col">Title</th>
+            <th scope="col">Size</th>
+            <th scope="col">Price</th>
+            <th scope="col">Category</th>
+            <th scope="col">Created at</th>
+            <th scope="col">Modified at</th>
+            <th scope="col" class="text-center">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+               <td class="w-25"><img style="width:50%; transform:translateX(80px); height:100px; border-radius:5px; object-fit:cover" src="@product.ImgUrl" title="Photo" /></td>
+                <td>@product.Title</td>
+                <td>@product.Size</td>
+                <td>@product.Price</td>
+                <td>@product.Category.Name</td>
+                <td>@product.CreatedDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@product.UpdatedDate?.ToString("dd/MM/yyyy HH:mm")</td>
+                <td class="text-center d-flex justify-content-center">
+                    <a class="btn btn-secondary mx-2" asp-action="update" asp-controller="product" asp-route-id="@product.Id">Update</a>
+                    <form method="post" asp-action="delete" asp-controller="product" asp-route-id="@product.Id">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

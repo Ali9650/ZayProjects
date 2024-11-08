@@ -1,0 +1,37 @@
+﻿@using Zay_Projects.Areas.Admin.Models.Product
+
+@model ProductUpdateVM
+
+<form method="post" asp-action="update" asp-controller="product">
+    <div class="form-group">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-control" placeholder="Enter title" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Size"></label>
+        <input asp-for="Size" class="form-control" placeholder="Enter size" />
+        <span asp-validation-for="Size" class="text-danger"></span>
+    </div>
+
+
+    <div class="form-group">
+        <label asp-for="ImgUrl"></label>
+        <input asp-for="ImgUrl" class="form-control" placeholder="Enter Image" />
+        <span asp-validation-for="ImgUrl" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control" placeholder="Enter price" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CategoryId"></label>
+        <select asp-for="CategoryId" asp-items="Model.Categories"> </select>
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
