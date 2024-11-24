@@ -255,3 +255,4 @@ C:\Users\HP\Desktop\visual stidio\Zay Projects\Zay Projects\bin\Debug\net8.0\run
 C:\Users\HP\Desktop\visual stidio\Zay Projects\Zay Projects\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\HP\Desktop\visual stidio\Zay Projects\Zay Projects\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\HP\Desktop\visual stidio\Zay Projects\Zay Projects\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\visual stidio\Zay Projects\Zay Projects\obj\Debug\net8.0\Zay Projects.sourcelink.json

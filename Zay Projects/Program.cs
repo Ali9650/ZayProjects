@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Zay_Projects.Data;
+using Zay_Projects.Utilities.File;
 
 namespace Zay_Projects
 {
@@ -12,6 +13,7 @@ namespace Zay_Projects
             builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("Default"))
             );  
+            builder.Services.AddSingleton<IFileService,FileService>();
             var app = builder.Build();
             app.MapControllerRoute(
           name: "areas",

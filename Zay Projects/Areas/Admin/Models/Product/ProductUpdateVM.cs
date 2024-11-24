@@ -9,9 +9,9 @@ namespace Zay_Projects.Areas.Admin.Models.Product
         [MinLength(3, ErrorMessage = "Adın minimum uzunluğu 3 simvol olmalıdır")]
         public string Title { get; set; }
 
-        [Required(ErrorMessage = "Sekil daxil edilməlidir")]
-        [MinLength(3, ErrorMessage = "Sekil minimum uzunluğu 3 simvol olmalıdır")]
-        public string ImgUrl { get; set; }
+      
+        public string ?PhotoName { get; set; }
+        public IFormFile ?Photo { get; set; }
 
         [Required(ErrorMessage = "Olcu daxil edilməlidir")]
         [MinLength(1, ErrorMessage = "Olcunun minimum uzunluğu 1 simvol olmalıdır")]

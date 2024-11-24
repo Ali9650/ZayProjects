@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Zay_Projects.Areas.Admin.Models.Product;
 using Zay_Projects.Data;
+using Zay_Projects.Utilities.File;
 
 namespace Zay_Projects.Areas.Admin.Controllers
 {
@@ -11,10 +12,11 @@ namespace Zay_Projects.Areas.Admin.Controllers
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
-
-        public ProductController(AppDbContext context)
+        private readonly IFileService _fileService;
+        public ProductController(AppDbContext context,IFileService fileService)
         {
             _context = context;
+            _fileService = fileService;
         }
 
         #region Read
@@ -58,14 +60,34 @@ namespace Zay_Projects.Areas.Admin.Controllers
            
             var category = _context.Categories.FirstOrDefault(c=>c.Id== model.CategoryId);  
             if (category == null) return NotFound();
+
+            if (model.Photo is null)
+            {
+                ModelState.AddModelError("Photo","please choose photo");  
+                return View(model);
+            }
+            if (!_fileService.IsImage(model.Photo.ContentType))
+            {
+                ModelState.AddModelError("Photo", "file format is not image");
+                return View(model);
+            }
+            if (!_fileService.IsAvialableSize(model.Photo.Length,250))
+            {
+                ModelState.AddModelError("Photo", "file leght is very big");
+                return View(model);
+            }
+
+            var photoName = _fileService.Upload(model.Photo,"assets/img");
+           
             var Product = new Entities.Product
             {
                 Title = model.Title,
                 Size = model.Size,
-                ImgUrl = model.ImgUrl,
+                PhotoName = photoName,
                 Price = model.Price,
                 CategoryId = model.CategoryId
             };
+
             _context.Products.Add(Product);
             _context.SaveChanges(); 
             return RedirectToAction(nameof(Index));
@@ -85,7 +107,7 @@ namespace Zay_Projects.Areas.Admin.Controllers
             {
                 Title=product.Title,
                 Size = product.Size,
-                ImgUrl=product.ImgUrl,
+                PhotoName=product.PhotoName,
                 Price = product.Price,
                 CategoryId = product.CategoryId,
                 Categories=_context.Categories.Select(c=> new SelectListItem
@@ -114,12 +136,30 @@ namespace Zay_Projects.Areas.Admin.Controllers
                 ModelState.AddModelError("CategoryId ", "Bele bir kategoriya yoxdur");
                return View(model);
             }
-
+          
             product.Title = model.Title;
             product.Size = model.Size;
-            product.ImgUrl = model.ImgUrl;
+            //product.PhotoName = model.ImgUrl;
             product.Price = model.Price;
             product.CategoryId = model.CategoryId;
+
+            if (model.Photo is not null)
+            {
+                if (!_fileService.IsImage(model.Photo.ContentType))
+                {
+                    ModelState.AddModelError("Photo", "file format invalid");
+                    return View(model);
+                }
+                if (!_fileService.IsAvialableSize(model.Photo.Length, 250))
+                {
+                    ModelState.AddModelError("Photo", "photo size is very big");
+                    return View(model);
+                }
+
+                _fileService.Delete("assets/img", product.PhotoName);
+                var photoName = _fileService.Upload(model.Photo, "assets/img");
+                product.PhotoName = photoName;
+            }
             product.UpdatedDate=DateTime.Now;
 
             _context.Products.Update(product);
@@ -136,8 +176,10 @@ namespace Zay_Projects.Areas.Admin.Controllers
         {
             var product = _context.Products.Find(id);
             if (product == null) return NotFound();
+            var photoName=product.PhotoName;
             _context.Products.Remove(product);
             _context.SaveChanges();
+            _fileService.Delete("assets/img",photoName);
             return RedirectToAction(nameof(Index));
         }
         #endregion

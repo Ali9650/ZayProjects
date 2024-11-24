@@ -2,7 +2,7 @@
 
 @model ProductCreatVM
 
-<form method="post" asp-action="create" asp-controller="product">
+<form enctype="multipart/form-data" method="post" asp-action="create" asp-controller="product">
     <div class="form-group">
         <label asp-for="Title"></label>
         <input asp-for="Title" class="form-control" placeholder="Enter title" />
@@ -17,9 +17,9 @@
 
 
     <div class="form-group">
-        <label asp-for="ImgUrl"></label>
-        <input asp-for="ImgUrl" class="form-control" placeholder="Enter Image" />
-        <span asp-validation-for="ImgUrl" class="text-danger"></span>
+        <label asp-for="Photo"></label>
+        <input asp-for="Photo" class="form-control" placeholder="Enter Image" />
+        <span asp-validation-for="Photo" class="text-danger"></span>
     </div>
 
     <div class="form-group">

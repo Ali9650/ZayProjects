@@ -59,7 +59,7 @@ namespace Zay_Projects.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("ImgUrl")
+                    b.Property<string>("PhotoName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

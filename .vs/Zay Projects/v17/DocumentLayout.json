@@ -3,72 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\models\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\models\\homeindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\models\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\models\\slidervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\models\\shopindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\models\\shopindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Migrations\\20241106154717_SliderAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zay Projects\\Migrations\\20241106154717_SliderAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\models\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\models\\product\\productupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\models\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\models\\category\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\utilities\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\utilities\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\utilities\\file\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\utilities\\file\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\models\\product\\productcreatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\models\\product\\productcreatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\areas\\admin\\models\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\areas\\admin\\models\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|c:\\users\\hp\\desktop\\visual stidio\\zay projects\\zay projects\\zay projects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62396C2B-CD65-4B6E-82A8-5D20E7C87775}|Zay Projects\\Zay Projects.csproj|solutionrelative:zay projects\\zay projects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,223 +67,159 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Zay Projects\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T16:10:32.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Zay Projects\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Zay Projects\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T16:07:07.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeIndexVM.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\HomeIndexVM.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Models\\HomeIndexVM.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\HomeIndexVM.cs",
-              "RelativeToolTip": "Zay Projects\\Models\\HomeIndexVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:48:41.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Zay Projects\\Views\\Shop\\Index.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Zay Projects\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF4AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T15:47:44.149Z",
+              "WhenOpened": "2024-11-22T17:46:59.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20241106154717_SliderAdded.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Migrations\\20241106154717_SliderAdded.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Migrations\\20241106154717_SliderAdded.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Migrations\\20241106154717_SliderAdded.cs",
-              "RelativeToolTip": "Zay Projects\\Migrations\\20241106154717_SliderAdded.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Zay Projects\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Zay Projects\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:47:18.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Zay Projects\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:46:11.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShopIndexVM.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\ShopIndexVM.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Models\\ShopIndexVM.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\ShopIndexVM.cs",
-              "RelativeToolTip": "Zay Projects\\Models\\ShopIndexVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:45:42.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T17:46:33.481Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SliderVM.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\SliderVM.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Models\\SliderVM.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Models\\SliderVM.cs",
-              "RelativeToolTip": "Zay Projects\\Models\\SliderVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:44:58.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Entities\\Slider.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Entities\\Slider.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Entities\\Slider.cs",
-              "RelativeToolTip": "Zay Projects\\Entities\\Slider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:43:44.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T15:18:59.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "ProductUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
               "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
               "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Models\\Product\\ProductUpdateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:10:26.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T17:37:59.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Zay Projects\\Entities\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:01:11.06Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T17:23:50.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryUpdateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:20:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T15:59:58.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAADwvyUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:45:01.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T15:44:31.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T14:43:10.992Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Program.cs",
+              "RelativeDocumentMoniker": "Zay Projects\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Program.cs",
+              "RelativeToolTip": "Zay Projects\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:30:09.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Utilities\\File\\FileService.cs",
+              "RelativeDocumentMoniker": "Zay Projects\\Utilities\\File\\FileService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Utilities\\File\\FileService.cs",
+              "RelativeToolTip": "Zay Projects\\Utilities\\File\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:11:47.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Utilities\\File\\IFileService.cs",
+              "RelativeDocumentMoniker": "Zay Projects\\Utilities\\File\\IFileService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Utilities\\File\\IFileService.cs",
+              "RelativeToolTip": "Zay Projects\\Utilities\\File\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:08:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Zay Projects.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Zay Projects.csproj",
+              "RelativeDocumentMoniker": "Zay Projects\\Zay Projects.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Zay Projects.csproj",
+              "RelativeToolTip": "Zay Projects\\Zay Projects.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T15:06:50.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductCreatVM.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Product\\ProductCreatVM.cs",
               "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Models\\Product\\ProductCreatVM.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Product\\ProductCreatVM.cs",
               "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Models\\Product\\ProductCreatVM.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBkAAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:28:33.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T15:03:25.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
-              "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
-              "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Models\\Category\\CategoryCreateVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:28:13.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Zay Projects\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Zay Projects\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAI8AAAAFAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwGUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T14:23:44.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T15:03:07.964Z"
             }
           ]
         }

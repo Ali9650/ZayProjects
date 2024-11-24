@@ -7365,6 +7365,10 @@
       "PackagePath": "staticwebassets\\assets\\css\\templatemo.min.css"
     },
     {
+      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\3b5d3bee-de00-4a72-a48d-10fe68643051_shop_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\3b5d3bee-de00-4a72-a48d-10fe68643051_shop_07.jpg"
+    },
+    {
       "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\about-hero.svg",
       "PackagePath": "staticwebassets\\assets\\img\\about-hero.svg"
     },
@@ -7471,46 +7475,6 @@
     {
       "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\product_single_10.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\product_single_10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_01.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_01.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_02.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_02.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_03.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_03.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_04.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_04.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_05.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_05.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_06.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_06.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_07.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_07.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_08.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_08.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_09.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_09.jpg"
-    },
-    {
-      "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_10.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\shop_10.jpg"
     },
     {
       "Id": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\img\\shop_11.jpg",

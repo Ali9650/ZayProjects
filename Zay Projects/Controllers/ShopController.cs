@@ -22,7 +22,7 @@ namespace Zay_Projects.Controllers
                 var productVM = new ProductVM
                 {
                     Title = product.Title,
-                    ImgUrl = product.ImgUrl,
+                    PhotoName = product.PhotoName,
                     Price = product.Price,
                     Size = product.Size
                 };
