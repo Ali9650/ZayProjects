@@ -22,6 +22,61 @@ namespace Zay_Projects.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Zay_Projects.Entities.Brand", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Desciption")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Brand");
+                });
+
+            modelBuilder.Entity("Zay_Projects.Entities.BrandPhoto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BrandId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("CreatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PhotoPath")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedDate")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BrandId");
+
+                    b.ToTable("BrandPhotos");
+                });
+
             modelBuilder.Entity("Zay_Projects.Entities.Category", b =>
                 {
                     b.Property<int>("Id")
@@ -120,6 +175,17 @@ namespace Zay_Projects.Migrations
                     b.ToTable("Sliders");
                 });
 
+            modelBuilder.Entity("Zay_Projects.Entities.BrandPhoto", b =>
+                {
+                    b.HasOne("Zay_Projects.Entities.Brand", "Brand")
+                        .WithMany("Photos")
+                        .HasForeignKey("BrandId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Brand");
+                });
+
             modelBuilder.Entity("Zay_Projects.Entities.Product", b =>
                 {
                     b.HasOne("Zay_Projects.Entities.Category", "Category")
@@ -129,6 +195,11 @@ namespace Zay_Projects.Migrations
                         .IsRequired();
 
                     b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Zay_Projects.Entities.Brand", b =>
+                {
+                    b.Navigation("Photos");
                 });
 
             modelBuilder.Entity("Zay_Projects.Entities.Category", b =>

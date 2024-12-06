@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jexNal9suuaRNX4fuQyvSH+5W9tvHvMR+jJn3U83AR4=",
+  "Hash": "ZserzQ2VlC5Zb6tgW8w8KX+/aAS1IGP02CADV4dJZy4=",
   "Source": "Zay Projects",
   "BasePath": "_content/Zay Projects",
   "Mode": "Default",
@@ -35621,6 +35621,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\js\\Shop.js",
+      "SourceId": "Zay Projects",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\",
+      "BasePath": "_content/Zay Projects",
+      "RelativePath": "assets/js/Shop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\Shop.js"
     },
     {
       "Identity": "C:\\Users\\HP\\Desktop\\visual stidio\\Zay Projects\\Zay Projects\\wwwroot\\assets\\js\\slick.min.js",

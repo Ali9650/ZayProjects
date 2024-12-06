@@ -6,6 +6,7 @@ namespace Zay_Projects.Controllers
     {
         public IActionResult Index()
         {
+            
             return View();
         }
     }

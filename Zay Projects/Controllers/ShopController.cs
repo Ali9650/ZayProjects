@@ -32,6 +32,7 @@ namespace Zay_Projects.Controllers
             {
                 var CategoryVM = new CategoryVM
                 {
+                    Id = category.Id,
                     Name = category.Name
                 };
                 CategoriesList.Add(CategoryVM);
@@ -44,6 +45,15 @@ namespace Zay_Projects.Controllers
             };
             return View(model);
         }
+       
+        public IActionResult ShowProducts(int categoryId)
+        {
+           var products = _context.Products.ToList();
+            if (categoryId>0) products=_context.Products.Where(p=>p.CategoryId==categoryId).ToList();
+            
+            return PartialView("_ProductPartial",products);
+        }
+        
         public IActionResult Detail(int id) 
         { 
             return View(); 

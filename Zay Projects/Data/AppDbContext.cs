@@ -13,5 +13,7 @@ namespace Zay_Projects.Data
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Slider> Sliders { get; set; }
+        public DbSet<Brand> Brand { get; set; }
+        public DbSet<BrandPhoto> BrandPhotos { get; set; }
     }
 }
